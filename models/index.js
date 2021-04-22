@@ -1,1 +1,3 @@
-// will  fill later
+module.exports = {
+    Workout: require("./workout")
+};
