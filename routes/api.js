@@ -57,7 +57,7 @@ router.put("/api/workouts/:id", ({ body, params }, res) => {
         .catch(err => {
             res.json(err)
         })
-});
+});;
 
 
 
